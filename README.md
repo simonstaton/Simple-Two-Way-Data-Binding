@@ -1,6 +1,8 @@
 # Simple-Two-Way-Data-Binding
 A simple JavaScript module to handle two way data binding via accessor mutators, uses a global class for invocation.
 
+<a href="http://jsfiddle.net/fm5tcwav/">Demo</a>
+
 Define an interpolation point via {{}} expressions, input bindings can be defined via a data-relation attribute which can collate to a property in the modules store, if no property is defined it will be created using the inputs value as the expression.
 
 # Example
