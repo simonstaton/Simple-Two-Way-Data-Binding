@@ -1,5 +1,5 @@
 # Simple-Two-Way-Data-Binding
-A simple JavaScript module to handle two way data binding via accessor mutators, uses a global class for invocation.
+A simple JavaScript module to handle two way data binding via accessor mutators, uses a global class to encapsulate functionality.
 
 <a href="http://jsfiddle.net/fm5tcwav/">Demo</a>
 
